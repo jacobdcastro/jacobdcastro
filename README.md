@@ -12,7 +12,7 @@ I love Web3 a ton, but it's not yet ready for primetime; I love building things 
 
 ## Fun Fact About Me
 
-I had the opportunity to save an NFT project, who discovered a bug in their ERC-721 smart contract **after** minting had already begun! For a full technical explanation of how I approached the problem, checkout out the [Metamogul repo's README](https://github.com/jacobdcastro/MetaMogulsNFT/).
+I had the opportunity to save an NFT project, who discovered a bug in their ERC-721 smart contract **after** minting had already begun! For a full technical explanation of how I approached the problem, checkout out the [MetaMogulsNFT repo's README](https://github.com/jacobdcastro/MetaMogulsNFT/).
 
 ## I am Open for Work!
 
