@@ -14,8 +14,6 @@ I love Web3 a ton, but it's not yet ready for primetime; I love building things 
 
 I had the opportunity to save an NFT project, who discovered a bug in their ERC-721 smart contract **after** minting had already begun! For a full technical explanation of how I approached the problem, checkout out the [MetaMogulsNFT repo's README](https://github.com/jacobdcastro/MetaMogulsNFT/).
 
-## I am Open for Work!
+## Want to collab?
 
-I am **actively** seeking a full-time position in Web3. I am also open to part-time gigs via contract.
-
-If you'd like to work together, please contact me via email (jacob@jdc.dev) or DM me on twitter!
+If you'd like to work together, please contact me via email (jacob@jdc.dev) or [DM me on twitter](https://twitter.com/jacobdcastro)!
