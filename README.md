@@ -1,13 +1,12 @@
 # Welcome to my Github 🫡
 
-I'm [Jacob D. Castro](https://twitter.com/jacobdcastro), a full-stack software engineer specializing in Web3. I most enjoy building and researching topics related to intents and chain abstraction. 
+I'm [Jacob D. Castro](https://twitter.com/jacobdcastro), a full-stack crypto software engineer.
 
-Some tech I love to work with includes:
+I like:
+- EVM
 - Solidity
 - TypeScript / JavaScript
 - React
-- Node.js
-- GraphQL
 - Rust
 
 ## Want to collab?
