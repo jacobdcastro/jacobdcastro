@@ -8,3 +8,4 @@ I like:
 - Solidity
 - TypeScript / JavaScript
 - React
+- NEOVIM!!!!!! ([my config](https://github.com/jacobdcastro/nvim-config))
